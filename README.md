@@ -24,9 +24,9 @@ cd tts-web-app
 
 
 Install dependencies
-pip install -r requirements.txt
+**pip install -r requirements.txt**
 USE PYTHON intrepreter
-         version 3.10.7 64bit
+         **version 3.10.7 64bit**
 
 Install FFmpeg
 Windows: Download from https://ffmpeg.org/download.html, extract, and add to PATH.
@@ -36,7 +36,7 @@ Linux: sudo apt install ffmpeg
 
 -Run the Application
 Bash
-python app.py
+**python app.py**
 
 
 
